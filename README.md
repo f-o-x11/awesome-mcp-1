@@ -235,6 +235,7 @@ Servers with free tiers or that require paid API access.
 #### 🌐 Web Services
 
 - [Airtable](https://github.com/Airtable/airtable-mcp) 💰 ☁️ 🟡 - Cloud database platform
+- [deed.page](https://github.com/f-o-x11/deed-page-skill) 💰 ☁️ 🟡 - Remote MCP server that publishes static HTML files or folders to a public HTTPS link and can update or delete them.
 
 #### 🟢 Security
 
